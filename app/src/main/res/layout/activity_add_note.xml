@@ -21,7 +21,7 @@
     <EditText
             android:layout_width="361dp"
             android:layout_height="363dp"
-            android:inputType="textPersonName"
+            android:inputType="textMultiLine"
             android:hint="Content"
             android:text=""
             android:ems="10"
